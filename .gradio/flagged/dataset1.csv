@@ -1,0 +1,2 @@
+Upload an Image,"Output Filename (e.g., compressed_image.jpg)",Image Quality (1-100),Download Compressed Image,Compression Info,timestamp
+".gradio\flagged\Upload an Image\d4c503854bece096b660\ChatGPT Image Feb 16, 2026, 10_35_49 PM.png",compressed_image1.jpg,75,.gradio\flagged\Download Compressed Image\58d89acf05e6f8d463e2\compressed_image1.jpg,Compression complete! Reduced Size: 69.30 KB. Ready for download.,2026-05-15 00:22:18.192832
