@@ -34,7 +34,7 @@ def compress_image(image_input, output_filename, quality):
 iface = gr.Interface(
     fn=compress_image,
     inputs=[
-        gr.Image(type="file", label="Upload Image"),
+        gr.Image(type="filepath", label="Upload an Image"),
         gr.Textbox(label="Output Filename (e.g., compressed_image.jpg)", value="compressed_image.jpg"),
         gr.Slider(minimum=1, maximum=100, value=75, label="Image Quality (1-100)")
     ],
