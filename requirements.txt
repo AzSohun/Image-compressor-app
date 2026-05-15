@@ -1,6 +1,0 @@
-Pillow
-gradio
-# Add other libraries your .pkl model or app.py uses, for example:
-# scikit-learn
-# numpy
-# pandas
